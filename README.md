@@ -5,7 +5,7 @@ talk about various interests. My semi-decent [projects are listed
 here](https://projects.judyyfong.xyz). Extremely rough projects can be found on
 my [GitHub profile](https://github.com/judyfong). I have written a few [academic
 publications](https://scholar.google.com/citations?user=dI2DL2oAAAAJ&hl=en) and
-given some related [talks](https://projects.judyyfong.xyz/talks).
+given some related [talks](https://projects.judyyfong.xyz/talks). You can read more about my professional career on [my resume](/tech-resume).
 
 ## Services
 
