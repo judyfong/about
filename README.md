@@ -1,6 +1,13 @@
 # About
 
-I have a [blog](blog.judyyfong.xyz) where I talk about whatever is of interest.
+A [blog](https://blog.judyyfong.xyz) where I talk about whatever is of interest.
+
+[Projects](https://projects.judyyfong.xyz)
+-extremely rough projects can be found on my [GitHub profile](https://github.com/judyfong)
+
+[Academic Publications](https://scholar.google.com/citations?user=dI2DL2oAAAAJ&hl=en)
+
+[Talks](https://projects.judyyfong.xyz) I've given
 
 ## Services
 
@@ -10,6 +17,8 @@ Making websites is what I have been doing for over a decade as a freelancer and
 as a software developer. My name is Judy Y.  Fong. I have worked with
 Wordpress, Drupal, PHP, Bootstrap, various CMS, and other web development
 technologies.
+
+[Example websites](https://judyyfong.xyz)
 
 #### Responsive Design
 
