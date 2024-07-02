@@ -7,7 +7,7 @@ A [blog](https://blog.judyyfong.xyz) where I talk about whatever is of interest.
 
 [Academic Publications](https://scholar.google.com/citations?user=dI2DL2oAAAAJ&hl=en)
 
-[Talks](https://projects.judyyfong.xyz) I've given
+[Talks](https://projects.judyyfong.xyz/talks) I've given
 
 ## Services
 
