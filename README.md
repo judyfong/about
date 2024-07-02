@@ -1,7 +1,7 @@
 # About
 
 My name is Judy Y. Fong. I have a [blog](https://blog.judyyfong.xyz) where I
-talk about various interest. My semi-decent [projects are listed
+talk about various interests. My semi-decent [projects are listed
 here](https://projects.judyyfong.xyz). Extremely rough projects can be found on
 my [GitHub profile](https://github.com/judyfong). I have written a few [academic
 publications](https://scholar.google.com/citations?user=dI2DL2oAAAAJ&hl=en) and
@@ -9,7 +9,9 @@ given some related [talks](https://projects.judyyfong.xyz/talks).
 
 ## Services
 
-If you would like to request my services for your business, please contact me.
+If you would like to request my services for your business, please contact me
+at [blog@judyyfong.xyz](mailto:blog@judyyfong.xyz) with a subject line that
+indicates which service: e.g. `Website Services`.
 
 ### Website
 
