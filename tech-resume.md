@@ -40,10 +40,11 @@
 
 ## Education
 
-### Háskóli Íslands B.A. Icelandic as a second language
-#### Pursuing: 2021-present
-University of California, Davis - B.S. Computer Science \
-Awarded: 2014
+#### Háskóli Íslands B.A. Icelandic as a second language
+- Pursuing: 2021-present
+
+#### University of California, Davis - B.S. Computer Science
+- Awarded: 2014
 
 ## Skills
 - Proficient in `PHP`, `JavaScript`, `SQL`, `ReactJS`, `XML`, `Postgres`, and `Coldfusion`
@@ -54,8 +55,9 @@ Awarded: 2014
 - Fluent in English & Cantonese; Basic in Spanish, French, Mandarin & Icelandic
 
 ## Related Activities
-- Implemented an iOS app and web interface for a UC Davis research study
-- Designed and built a budget tracker application
+- Implemented an iOS app and web interface for a UC Davis longitudinal
+  agricultural research study
+- Designed and built a personal budget tracker application
 - Worked on the acrylic structure for an OpenROV
 - [Projects.judyyfong.xyz](https://projects.judyyfong.xyz)
 
@@ -74,8 +76,7 @@ Awarded: 2014
 ## Papers
 - Fong, J.; Gunnarsson, Þ.; Þorsteinsdóttir S.; Örnólfsson, G.; and Guðnason, J. [“An Open Source Web Reader for Under-Resourced Languages,”](https://aclanthology.org/2022.sigul-1.2.pdf) in proceedings of SIGUL 2022. [Slides](https://projects.judyyfong.xyz/talks/2022-06-SIGUL-WebRICE-2024v.pdf)
 
-- Helgadóttir, Inga R.; Nikulásdóttir, Anna B.; Borský, Michal; Fong, Judy Y.; Kjaran, Róbert; and Guðnason, Jón. [“The Althingi ASR System,”](https://www.isca-archive.org/interspeech_2017/helgadottir17_interspeech.pdf) in proceedings of Interspeech 2019. \
-DOI: 10.21437/Interspeech.2019-1248
+- Helgadóttir, Inga R.; Nikulásdóttir, Anna B.; Borský, Michal; Fong, Judy Y.; Kjaran, Róbert; and Guðnason, Jón. [“The Althingi ASR System,”](https://www.isca-archive.org/interspeech_2019/helgadottir19_interspeech.pdf) in proceedings of Interspeech 2019. \ DOI: 10.21437/Interspeech.2019-1248
 
 - Modekurty, S.; Fong, J.; Cheng, H. [“C-STEM Girls Computing and Robotics Leadership Camp,”](https://iel.ucdavis.edu/download/C-STEM/oldsite/c-stem.ucdavis.edu/wp-content/uploads/Articles/ASEE_WIED_paper_published.pdf) presented at 2014 ASEE Annual Conference & Exposition, Indianapolis, Indiana. \
 DOI: 10.18260/1-2–20141
