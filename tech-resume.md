@@ -95,7 +95,10 @@
 - Worked with Apache2, VMWare, Regex, Drupal, Wordpress
 - Familiar with Windows OS, Linux, Mac OS, DFC, DQL, Git and SVN
 - Knowledge of Eclipse, PhoneGap, and Android OS
-- Fluent in English & Cantonese; Basic in Spanish, French, Mandarin & Icelandic
+- Fluent in English (C2)
+- Proficient in Cantonese Chinese (C1) & Icelandic (C1)
+- Basic in Spanish (B1) , French (B1), Mandarin Chinese (B1), Hoipingese
+  Chinese (A2), and Japanese (A1)
 
 ## Related Activities
 - Implemented an iOS app and web interface for a UC Davis longitudinal
