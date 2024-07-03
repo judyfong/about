@@ -21,6 +21,8 @@
 #### Project: Máltækni fyrir íslensku 2022
 - Communicated with project collaborators and stakeholders
 - Ensured that the project milestones were met on time
+- Managed intern for the Samrómur Icelandic as a second language ASR recipe and
+  dataset creation
 
 #### Project: CEF-Telecom National Language Technology Platform
 - Analyzed and managed budgets for conference
@@ -49,6 +51,10 @@
 - Manage workload for intern of the [Málromur II - Eyra audio data collecting
   system](https://github.com/cadia-lvl/Eyra/tree/Malromur_II)
 - Ran and updated the website for the Language and Voice Lab
+- Contributed to the creation of an [Icelandic language technology resource
+  catalog](https://cadia-lvl.github.io/icelandic-NLP-resources/)
+- Member of the [Software Development
+  Guidelines](https://github.com/cadia-lvl/SoftwareDevelopmentGuidelines) team
 
 ### Independent Web Developer
 #### Fall 2014 - Present
