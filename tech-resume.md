@@ -1,5 +1,42 @@
 ## Work Experience
 
+### Quality Assurance Automation Engineer – Tern Systems
+#### Winter 2023 – Spring 2024
+- Developed test plans for the Aries weather and lighting system for small
+  Icelandic airports (ISAVIA)
+- Tested air navigation software for ISAVIA ANS
+- Updated automated pytest and squish test scripts for enroute air navigation software
+- Attended client meetings in Icelandic
+
+### Software Engineer – Rannís
+#### Fall 2022 - Summer 2023
+- Made the grant application portal for a grant
+- Made the document system for a cultural grant
+
+### Project Manager – Language and Voice Lab, Reykjavik University
+#### Summer 2022 - Fall 2022
+- Organized and arranged meetings and events
+- Resolved and helped software engineers troubleshoot abstract tasks
+
+#### Project: Máltækni fyrir íslensku 2022
+- Communicated with project collaborators and stakeholders
+- Ensured that the project milestones were met on time
+
+#### Project: CEF-Telecom National Language Technology Platform
+- Analyzed and managed budgets for conference
+
+### Resources/Data Team Lead – Language and Voice Lab, Reykjavík University
+#### Summer 2021 - Summer 2022
+- Resolved and helped software engineers troubleshoot abstract tasks
+- Organized and led bilingual Icelandic and English stand-up meetings
+
+#### Project: CEF-Telecom National Language Technology Platform
+#### Project: CEF-Telecom Microservices at your service
+#### Project: Máltækni fyrir íslensku 2022
+- [Samrómur](https://samromur.is)
+- Spjallrómur
+- Aligning large speech (ASR) corpora
+
 ### Researcher – [Language and Voice Lab, Reykjavik University](https://lvl.ru.is/)
 #### Spring 2017 - October 2022
 - Developed the Samrómur Spjall Vo-IP chatting platform to collect conversational data
@@ -14,26 +51,26 @@
 - Ran and updated the website for the Language and Voice Lab
 
 ### Independent Web Developer
-#### Fall 2014-Present
+#### Fall 2014 - Present
 - Implemented mobile friendly websites for clients via CMS
 - Wrote SEO friendly website descriptions
 - Quality checked and edited content
 - Connected a React application to a backend Java API
 
 ### Camp Coach – Girls in Robotics Leadership Camp
-#### Summer 2013- Summer 2014
+#### Summer 2013 - Summer 2014
 - Taught robotics programming to middle schoolers
 - Recruited assistant coaches and campers
 - Fixed robotic hardware problems
 
 ### Software Developer Intern – NetCE
-#### Spring 2013-Fall 2013
+#### Spring 2013 - Fall 2013
 - Separated PHP files into PHP, XSL, and XML files to modularize code
 - Set up multiple VMs for development database and web servers
 - Created JavaScript scriplets to automate filling out routine web forms
 
 ### IT Student Assistant - UCD Parking Division
-#### Fall 2012-Winter 2013
+#### Fall 2012 - Winter 2013
 - Merged data from numerous relational databases into one application
 - Designed and deployed a RESTful citation appeal system
 - Implemented a dynamic permit table using JSON
@@ -77,6 +114,11 @@
 - Fong, J.; Gunnarsson, Þ.; Þorsteinsdóttir S.; Örnólfsson, G.; and Guðnason, J. [“An Open Source Web Reader for Under-Resourced Languages,”](https://aclanthology.org/2022.sigul-1.2.pdf) in proceedings of SIGUL 2022. [Slides](https://projects.judyyfong.xyz/talks/2022-06-SIGUL-WebRICE-2024v.pdf)
 
 - Helgadóttir, Inga R.; Nikulásdóttir, Anna B.; Borský, Michal; Fong, Judy Y.; Kjaran, Róbert; and Guðnason, Jón. [“The Althingi ASR System,”](https://www.isca-archive.org/interspeech_2019/helgadottir19_interspeech.pdf) in proceedings of Interspeech 2019. \ DOI: 10.21437/Interspeech.2019-1248
+
+- Fong, J.; Borský, Michal; Helgadóttir, Inga R.; and Guðnason, Jón. ["Manual
+  post-editing of automatically transcribed speeches from the Icelandi
+parliament - Althingi,"
+https://arxiv.org/abs/1807.11893](https://arxiv.org/pdf/1807.11893).
 
 - Modekurty, S.; Fong, J.; Cheng, H. [“C-STEM Girls Computing and Robotics Leadership Camp,”](https://iel.ucdavis.edu/download/C-STEM/oldsite/c-stem.ucdavis.edu/wp-content/uploads/Articles/ASEE_WIED_paper_published.pdf) presented at 2014 ASEE Annual Conference & Exposition, Indianapolis, Indiana. \
 DOI: 10.18260/1-2–20141
