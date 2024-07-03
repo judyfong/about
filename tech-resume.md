@@ -57,6 +57,12 @@
 - Quality checked and edited content
 - Connected a React application to a backend Java API
 
+#### [Clients](https://judyyfong.xyz/tagged/clients)
+- Kraftlyftingasamband Íslands
+- Computers Corner
+- Pearl Thai Cuisine
+- Mayne Voice
+
 ### Camp Coach – Girls in Robotics Leadership Camp
 #### Summer 2013 - Summer 2014
 - Taught robotics programming to middle schoolers
