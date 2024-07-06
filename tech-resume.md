@@ -4,9 +4,11 @@
 #### Winter 2023 – Spring 2024
 - Developed test plans for the Aries weather and lighting system for small
   Icelandic airports (ISAVIA)
-- Tested air navigation software for ISAVIA ANS
-- Updated automated pytest and squish test scripts for enroute air navigation software
+- Created, tested, and updated automated pyTest squish scripts for enroute air
+  navigation software for ISAVIA ANS, in collaboration with a fellow QA and developer team
+- Debugged the QA dev-ops pipeline with documetnation for Icelandic air navigation
 - Attended client meetings in Icelandic
+- Won an inhouse innovation prize December 2023 for automating documentation writing
 
 ### Software Engineer – Rannís
 #### Fall 2022 - Summer 2023
@@ -20,7 +22,7 @@
 
 #### Project: Máltækni fyrir íslensku 2022
 - Communicated with project collaborators and stakeholders
-- Ensured that the project milestones were met on time
+- Ensured that the final project milestones were met on time
 - Managed intern for the Samrómur Icelandic as a second language ASR recipe and
   dataset creation
 
@@ -42,7 +44,7 @@
 ### Researcher – [Language and Voice Lab, Reykjavik University](https://lvl.ru.is/)
 #### Spring 2017 - October 2022
 - Developed the Samrómur Spjall Vo-IP chatting platform to collect conversational data
-- Create the RÚV-DI speaker diarization dataset, [recipe and models tailored for
+- Created the RÚV-DI speaker diarization dataset, [recipe and models tailored for
   Icelandic broadcast news](http://hdl.handle.net/20.500.12537/109)
 - Integrated a Kaldi ASR with the Icelandic Parliament, Althing’s,
   transcription and document management system using Documentum’s DFC and DQL
@@ -55,6 +57,7 @@
   catalog](https://cadia-lvl.github.io/icelandic-NLP-resources/)
 - Member of the [Software Development
   Guidelines](https://github.com/cadia-lvl/SoftwareDevelopmentGuidelines) team
+- Collected, cleaned, organized, and published speech datasets
 
 ### Independent Web Developer
 #### Fall 2014 - Present
