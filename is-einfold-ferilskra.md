@@ -27,6 +27,8 @@
 
 ### Rannsóknarmaður – Mál- og raddtæknistofa, Háskólann í Reykjavík
 #### Vetur 2017 - Vetur 2022
+- Keypti skrúfur
+- Búið til möppur
 - Hreinsaði gögn og gerði zip skrár
 
 ### Sjálfstæður vefhönnuður

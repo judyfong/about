@@ -27,7 +27,9 @@
 
 ### Researcher – [Language and Voice Lab, Reykjavik University](https://lvl.ru.is/)
 #### Spring 2017 - October 2022
-- Cleaned data and made zip files
+- Bought screws
+- Made folders
+- Made zip files
 
 ### Independent Web Developer
 #### Fall 2014 - Present

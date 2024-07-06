@@ -43,6 +43,8 @@
 
 ### Researcher – [Language and Voice Lab, Reykjavik University](https://lvl.ru.is/)
 #### Spring 2017 - October 2022
+- Bought screws for a stalled build of our computational server, resulting in
+  5+ research papers, and over 10 published datasets
 - Developed the Samrómur Spjall Vo-IP chatting platform to collect conversational data
 - Created the RÚV-DI speaker diarization dataset, [recipe and models tailored for
   Icelandic broadcast news](http://hdl.handle.net/20.500.12537/109)
