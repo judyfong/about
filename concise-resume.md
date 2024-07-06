@@ -29,7 +29,7 @@
 #### Spring 2017 - October 2022
 - Bought screws
 - Made folders
-- Made zip files
+- Made a website sound drunk
 
 ### Independent Web Developer
 #### Fall 2014 - Present
