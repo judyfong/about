@@ -6,8 +6,9 @@ here](https://projects.judyyfong.xyz). Extremely rough projects can be found on
 my [GitHub profile](https://github.com/judyfong). I have written a few [academic
 publications](https://scholar.google.com/citations?user=dI2DL2oAAAAJ&hl=en) and
 given some related [talks](https://projects.judyyfong.xyz/talks). You can read
-more about my professional career on [my simple](/concise-resume) or
-[verbose resume](/tech-resume).
+more about my professional career on my
+simple([EN](/concise-resume)|[IS](/is-einfold-ferilskra)) or
+[verbose](/tech-resume) resume.
 
 ## Services
 
