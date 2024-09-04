@@ -42,3 +42,11 @@ documented space be it virtual (website) or physical (office or home).
 ### Service Payments
 I accept [payments via PayPal](https://www.paypal.com/ncp/payment/9SMAGJ4T2XCEU).
 
+<script src="https://www.paypal.com/sdk/js?client-id=BAA62cYTGoEsE9ImWtjzGO2LLiYl-rJvlUTIl6oMK8esBaCxsRpi9T0DOgQo5UZJvRCMAC13v2prEti88M&components=hosted-buttons&enable-funding=venmo&currency=USD"></script>
+<div id="paypal-container-9SMAGJ4T2XCEU"></div>
+<script>
+  paypal.HostedButtons({
+    hostedButtonId: "9SMAGJ4T2XCEU",
+  }).render("#paypal-container-9SMAGJ4T2XCEU")
+</script>
+
