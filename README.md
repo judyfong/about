@@ -14,7 +14,7 @@ simple([EN](/concise-resume)|[IS](/is-einfold-ferilskra)) or
 
 If you would like to request my services for your business, please contact me
 at [blog@judyyfong.xyz](mailto:blog@judyyfong.xyz) with a subject line that
-indicates which service: e.g. `Website Services`.
+indicates which service: e.g. `[Website Services] Let's discuss`.
 
 ### Website
 
@@ -39,4 +39,6 @@ I have also been a data scientist for five years. So I can work with databases,
 data files, and things. This means I help create a more organized and well
 documented space be it virtual (website) or physical (office or home).
 
+### Service Payments
+I accept [payments via PayPal](https://www.paypal.com/ncp/payment/9SMAGJ4T2XCEU).
 
