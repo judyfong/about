@@ -43,7 +43,7 @@ documented space be it virtual (website) or physical (office or home).
 I accept payments via [GitHub sponsors](https://github.com/sponsors/judyfong/) and [via PayPal](https://www.paypal.com/ncp/payment/9SMAGJ4T2XCEU).
 
 ### My Socials
-[Google Scholar: https://scholar.google.com/citations?user=dI2DL2oAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=dI2DL2oAAAAJ&hl=en&oi=ao)
+[Google Scholar: https://scholar.google.com/citations?user=dI2DL2oAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=dI2DL2oAAAAJ&hl=en&oi=ao) \
 [Linkedin: https://github.com/sponsors/judyfong/](https://github.com/sponsors/judyfong/) \
 [GitHub: https://github.com/judyfong](https://github.com/judyfong) \
 [Twitter: https://twitter.com/jipbear](https://twitter.com/jipbear) \
