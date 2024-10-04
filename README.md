@@ -40,5 +40,12 @@ data files, and things. This means I help create a more organized and well
 documented space be it virtual (website) or physical (office or home).
 
 ### Service Payments
-I accept [payments via PayPal](https://www.paypal.com/ncp/payment/9SMAGJ4T2XCEU).
+I accept payments via [GitHub sponsors](https://github.com/sponsors/judyfong/) and [via PayPal](https://www.paypal.com/ncp/payment/9SMAGJ4T2XCEU).
 
+### My Socials
+[Google Scholar: https://scholar.google.com/citations?user=dI2DL2oAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=dI2DL2oAAAAJ&hl=en&oi=ao)
+[Linkedin: https://github.com/sponsors/judyfong/](https://github.com/sponsors/judyfong/) \
+[GitHub: https://github.com/judyfong](https://github.com/judyfong) \
+[Twitter: https://twitter.com/jipbear](https://twitter.com/jipbear) \
+[YouTube: https://www.youtube.com/jipbear](https://www.youtube.com/jipbear) \
+[Instagram: https://www.instagram.com/max.flan.bobo/](https://www.instagram.com/max.flan.bobo/)
