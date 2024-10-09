@@ -8,7 +8,8 @@ publications](https://scholar.google.com/citations?user=dI2DL2oAAAAJ&hl=en) and
 given some related [talks](https://projects.judyyfong.xyz/talks). You can read
 more about my professional career on my
 simple([EN](/concise-resume)|[IS](/is-einfold-ferilskra)) or
-[verbose](/tech-resume) resume.
+[verbose](/tech-resume) resume. In my free time, I have 
+[translated a few fictional stories](https://baekur-online.github.io/judy-fong-online/).
 
 ## Services
 
@@ -42,7 +43,7 @@ documented space be it virtual (website) or physical (office or home).
 ### Service Payments
 I accept payments via [GitHub sponsors](https://github.com/sponsors/judyfong/) and [via PayPal](https://www.paypal.com/ncp/payment/9SMAGJ4T2XCEU).
 
-### My Socials
+## My Socials
 [Google Scholar: https://scholar.google.com/citations?user=dI2DL2oAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=dI2DL2oAAAAJ&hl=en&oi=ao) \
 [Linkedin: https://github.com/sponsors/judyfong/](https://github.com/sponsors/judyfong/) \
 [GitHub: https://github.com/judyfong](https://github.com/judyfong) \
