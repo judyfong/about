@@ -9,6 +9,7 @@ Judy fong
 Web Developer
 
 +1.707.456.7669 \
+judy@judyyfong.xyz \
 judy.y.fong@gmail.com \
 https://judyyfong.tumblr.com \
 https://judyyfong.xyz
@@ -26,5 +27,5 @@ Judy Fong
 vefforritari
 
 +1.707.456.7669 \
-judy.y.fong@gmail.com \
+judy@judyyfong.xyz \
 https://judyyfong.xyz
