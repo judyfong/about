@@ -1,6 +1,11 @@
 # About
 
-My name is Judy Y. Fong. I have a [blog](https://blog.judyyfong.xyz) where I
+Hi! My name is Judy Y. Fong. So, I'm Judy. I really believe in open source, especially in regards to books. Therefore, I have made it my mission to make old books available to a wider reading audience, with a focus on Icelandic books first.
+
+## More about me
+I also work on language technology, a.k.a. natural language processing and artificial intelligence (AI) sometimes with a current focus on financial technology to aid me in my bachelor of arts (BA) in Icelandic as a second language studies and thesis, with a minor in Business administration (Íslenska sem annað mál 120 ECTS aðalgrein með aukagrein í viðskiptafræði). I am hoping to finish my hopefully trilingual thesis by December 2024 because I have failed to finish it it in the 2023-2024 school year, a.k.a. the previous two semesters.
+
+Additionally, I have a [blog](https://blog.judyyfong.xyz) where I
 talk about various interests. My semi-decent [projects are listed
 here](https://projects.judyyfong.xyz). Extremely rough projects can be found on
 my [GitHub profile](https://github.com/judyfong). I have written a few [academic
@@ -10,6 +15,19 @@ more about my professional career on my
 simple([EN](/concise-resume)|[IS](/is-einfold-ferilskra)) or
 [verbose](/tech-resume) resume. In my free time, I have 
 [translated a few fictional stories](https://baekur-online.github.io/judy-fong-online/).
+
+# Fall 2024 Goals
+- [ ] Pass my classes, 
+- [ ] turn in assignments in Icelandic on time, 
+- [ ] live a normal student life for once while only working part time
+- [ ] Finish my BA thesis for once and finally
+- [ ] Finish my further/graduate studies applications
+- [ ] and my study abroad Eramus+ scholarship applications
+- [ ] Document it all so anyone can follow in my footsteps
+- [ ] become friends with my friends of the past three years again
+- [ ] and deal with my PTSD,
+- [ ] while also making fun of the University of Iceland student council (Studentaráðslið), a.k.a., shi@hi.is constantly
+- [ ] and doing my best to bankrupt them as an unreliable student reporter at the open Student council meetings (Stúdentaráðsfundunum). But hey, you heard it here first.
 
 ## Services
 
@@ -39,6 +57,18 @@ devices today, viewers and potential clients can access your site with ease.
 I have also been a data scientist for five years. So I can work with databases,
 data files, and things. This means I help create a more organized and well
 documented space be it virtual (website) or physical (office or home).
+
+### Natural Language work
+
+#### Proofreading + Editing
+
+I offer proofreading in English and Icelandic along with copy editing if you are 
+also interested in that. My services start at 20,000 ISK per hour.
+
+#### Teaching Icelandic
+I teach Icelandic through my online school, [Menntaskólinn í Hamraborg í 
+Lautarvík við strönd og woods](https://projects.judyyfong.xyz/Mih/). I also offer 
+tutoring at 30,000 ISK an/per hour but if you have services to offer then we can also barter. 
 
 ### Service Payments
 I accept payments via [GitHub sponsors](https://github.com/sponsors/judyfong/) and [via PayPal](https://www.paypal.com/ncp/payment/9SMAGJ4T2XCEU).
