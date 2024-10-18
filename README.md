@@ -19,15 +19,16 @@ simple([EN](/concise-resume)|[IS](/is-einfold-ferilskra)) or
 # Fall 2024 Goals
 - [ ] Pass my classes, 
 - [ ] turn in assignments in Icelandic on time, 
-- [ ] live a normal student life for once while only working part time
-- [ ] Finish my BA thesis for once and finally
+- [ ] live a normal student life for once
+- [ ] while only working part time on my business ventures.
+- [ ] Finish my BA thesis for once and all finally
 - [ ] Finish my further/graduate studies applications
-- [ ] and my study abroad Eramus+ scholarship applications
+- [ ] and my study abroad Erasmus+ scholarship applications
 - [ ] Document it all so anyone can follow in my footsteps
 - [ ] become friends with my friends of the past three years again
-- [ ] and deal with my PTSD,
+- [ ] and deal with my health such as PTSD,
 - [ ] while also making fun of the University of Iceland student council (Studentaráðslið), a.k.a., shi@hi.is constantly
-- [ ] and doing my best to bankrupt them as an unreliable student reporter at the open Student council meetings (Stúdentaráðsfundunum). But hey, you heard it here first.
+- [ ] and doing my best to bankrupt them as an unreliable student reporter at the open University of Iceland Student council meetings (is. Háskóli Íslands Stúdentaráðsfundunum). But hey, you heard it here first.
 
 ## Services
 
