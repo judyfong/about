@@ -76,7 +76,7 @@ I accept payments via [GitHub sponsors](https://github.com/sponsors/judyfong/) a
 
 ## My Socials
 [Google Scholar: https://scholar.google.com/citations?user=dI2DL2oAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=dI2DL2oAAAAJ&hl=en&oi=ao) \
-[Linkedin: https://github.com/sponsors/judyfong/](https://github.com/sponsors/judyfong/) \
+[Linkedin: https://www.linkedin.com/in/judy-y-fong](https://www.linkedin.com/in/judy-y-fong) \
 [GitHub: https://github.com/judyfong](https://github.com/judyfong) \
 [Twitter: https://twitter.com/jipbear](https://twitter.com/jipbear) \
 [YouTube: https://www.youtube.com/jipbear](https://www.youtube.com/jipbear) \
