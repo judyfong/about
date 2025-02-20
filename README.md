@@ -16,20 +16,6 @@ simple([EN](/concise-resume)|[IS](/is-einfold-ferilskra)) or
 [verbose](/tech-resume) resume. In my free time, I have 
 [translated a few fictional stories](https://baekur-online.github.io/judy-fong-online/).
 
-# Fall 2024 Goals
-- [ ] Pass my classes, 
-- [ ] turn in assignments in Icelandic on time, 
-- [ ] live a normal student life for once
-- [ ] while only working part time on my business ventures.
-- [ ] Finish my BA thesis for once and all finally
-- [ ] Finish my further/graduate studies applications
-- [ ] and my study abroad Erasmus+ scholarship applications
-- [ ] Document it all so anyone can follow in my footsteps
-- [ ] become friends with my friends of the past three years again
-- [ ] and deal with my health such as PTSD,
-- [ ] while also making fun of the University of Iceland student council (Studentaráðslið), a.k.a., shi@hi.is constantly
-- [ ] and doing my best to bankrupt them as an unreliable student reporter at the open University of Iceland Student council meetings (is. Háskóli Íslands Stúdentaráðsfundunum). But hey, you heard it here first.
-
 ## Services
 
 If you would like to request my services for your business, please contact me
@@ -76,8 +62,5 @@ I accept payments via [GitHub sponsors](https://github.com/sponsors/judyfong/) a
 
 ## My Socials
 [Google Scholar: https://scholar.google.com/citations?user=dI2DL2oAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=dI2DL2oAAAAJ&hl=en&oi=ao) \
-[Linkedin: https://www.linkedin.com/in/judy-y-fong](https://www.linkedin.com/in/judy-y-fong) \
 [GitHub: https://github.com/judyfong](https://github.com/judyfong) \
-[Twitter: https://twitter.com/jipbear](https://twitter.com/jipbear) \
-[YouTube: https://www.youtube.com/jipbear](https://www.youtube.com/jipbear) \
-[Instagram: https://www.instagram.com/max.flan.bobo/](https://www.instagram.com/max.flan.bobo/)
+[YouTube: https://www.youtube.com/jipbear](https://www.youtube.com/jipbear)
